@@ -14,7 +14,7 @@ A simple Task Management API built with **Django** and **Django REST Framework (
 ### **1️⃣ Clone the Repository**  
 ```bash
 git clone https://github.com/speedytech121/JoshTalksAssesment.git
-cd task-manager
+cd JoshTalksAssesment\task_manager
 ```
 
 ### **2️⃣ Create a Virtual Environment**  
